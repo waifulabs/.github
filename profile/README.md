@@ -1,4 +1,3 @@
-## Hi there 👋
 <table>
   <tr>
     <td width="60%">
