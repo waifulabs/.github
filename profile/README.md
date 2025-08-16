@@ -1,10 +1,2 @@
-<table>
-  <tr>
-    <td width="60%">
-      # Hi there 👋 
-    </td>
-    <td width="40%" align="right">
-      <img src="https://via.placeholder.com/420x260.png?text=Your+Image" alt="Screenshot" width="380">
-    </td>
-  </tr>
-</table>
+# Hi there 👋 
+<img align="right" width="200" height="183" src="https://via.placeholder.com/420x260.png?text=Your+Image">Welcome to the place I store my production items.
